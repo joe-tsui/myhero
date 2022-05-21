@@ -1,7 +1,7 @@
 # hero v
 
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/joe-tsui/myhero)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/joe-tsui/myhero/tree/vless)
 
 
 
